@@ -1,0 +1,92 @@
+!- Font Render
+Xft.dpi:96
+Xft.antialiasing:true
+Xft.rgba:rgb
+Xft.hinting:true
+Xft.lcdfilter:lcddefault
+
+*.cursorColor: #ebac54
+
+!URxvt.borderColor:#1B1D1E
+URxvt.borderless:true
+URxvt.internalBorder:10 
+
+URxvt.underlineColor:       #333333
+URxvt.highlightColor:       #6eddba
+URxvt.highlightTextColor:   #353535
+
+URxvt.scrollstyle:plain
+URxvt.scrollBar:false
+URxvt.scrollTtyOutput:false
+URxvt.scrollWithBuffer:true
+URxvt.scrollTtyKeypress:true
+
+URxvt.cursorBlink:          true
+URxvt.cursorUnderline:      false
+URxvt.depth:31
+
+!- Perl Extension
+URxvt.url-launcher: chromium
+URxvt.matcher.button:1
+
+!copy and paste 
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+URxvt.perl-ext-common: default,clipboard, keyboard-select
+URxvt.keysym.Shift-Control-C: perl:clipboard:copy
+URxvt.keysym.Shift-Control-V: perl:clipboard:paste
+
+URxvt.underlineURLs:true
+URxvt.font:xft:NotoMono-Regular:pixelsize=12
+URxvt.transparent:false
+URxvt.shading:30
+URxvt.geometry:85x22
+
+!-Urgent Terminal for Notification
+URxvt*urgentOnBell: true
+URxvt*visualBell:   false
+
+	!colorscheme
+
+URxvt.background: #282f39
+URxvt.foreground: #FFFFFF
+
+
+!! black dark/light
+*color0: #073642
+*color8: #002b36
+
+!! red dark/light
+*color1: #dc322f
+*color9: #cb4b16
+
+!! green dark/light
+*color2: #859900
+*color10: #586e75
+
+!! yellow dark/light
+*color3: #b58900
+*color11: #657b83
+
+!! blue dark/light
+*color4: #268bd2
+*color12: #839496
+
+!! magenta dark/light
+*color5: #d33682
+*color13: #6c71c4
+
+!! cyan dark/light
+*color6: #2aa198
+*color14: #93a1a1
+
+!! white dark/light
+*color7: #eee8d5
+*color15: #fdf6e3
+
+! Rofi
+rofi.color-enabled: true
+rofi.color-window: argb:dc002b37, #002b37, #003642
+rofi.color-normal: argb:dc002b37, #819396, argb:dc003643, #008ed4, #ffffff
+rofi.color-active: #002b37, #008ed4, #003643, #008ed4, #66c6ff
+rofi.color-urgent: #002b37, #da4281, #003643, #008ed4, #890661 rofi.color-enabled: true

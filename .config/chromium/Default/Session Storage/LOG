@@ -1,0 +1,22 @@
+2017/08/25-09:36:28.741 1524 Reusing MANIFEST /home/ottersome/.config/chromium/Default/Session Storage/MANIFEST-000001
+2017/08/25-09:36:28.741 1524 Recovering log #860
+2017/08/25-09:36:28.742 1524 Reusing old log /home/ottersome/.config/chromium/Default/Session Storage/000860.log 
+2017/08/25-10:03:40.525 1653 Level-0 table #864: started
+2017/08/25-10:03:40.529 1653 Level-0 table #864: 20047 bytes OK
+2017/08/25-10:03:40.533 1653 Delete type=0 #860
+2017/08/25-10:48:13.087 1653 Compacting 2@0 + 1@1 files
+2017/08/25-10:48:13.095 1653 Generated table #865@0: 2723 keys, 52956 bytes
+2017/08/25-10:48:13.095 1653 Compacted 2@0 + 1@1 files => 52956 bytes
+2017/08/25-10:48:13.099 1653 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/08/25-10:48:13.100 1653 Delete type=2 #861
+2017/08/25-10:48:13.100 1653 Delete type=2 #859
+2017/08/25-10:48:13.100 1653 Delete type=2 #864
+2017/08/25-12:28:19.928 1653 Level-0 table #867: started
+2017/08/25-12:28:19.933 1653 Level-0 table #867: 22253 bytes OK
+2017/08/25-12:28:19.939 1653 Delete type=0 #863
+2017/08/25-13:52:12.822 1653 Compacting 1@0 + 1@1 files
+2017/08/25-13:52:12.831 1653 Generated table #868@0: 2889 keys, 62098 bytes
+2017/08/25-13:52:12.832 1653 Compacted 1@0 + 1@1 files => 62098 bytes
+2017/08/25-13:52:12.836 1653 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/08/25-13:52:12.837 1653 Delete type=2 #867
+2017/08/25-13:52:12.837 1653 Delete type=2 #865

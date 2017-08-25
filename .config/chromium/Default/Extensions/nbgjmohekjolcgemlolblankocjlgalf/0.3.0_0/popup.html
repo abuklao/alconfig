@@ -1,0 +1,47 @@
+<html>
+<head>
+  <link rel="stylesheet" href="popup.css" type="text/css" />
+
+  <script src="lib.js"></script>
+  <script src="popup.js"></script>
+
+  <!-- Google Analytics -->
+  <script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-6080477-5']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = 'https://ssl.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+</head>
+
+<body>
+
+  <p>
+  <a href="#" id="mark_junk_button" style="display: none">
+    <img src="/images/hamburger-19px.png" class="icon" />
+    Mark <span id="current_domain"></span> as junk
+  </a>
+  </p>
+
+  <p>
+    <a href="options.html">
+      <img src="/images/wrench.png" class="icon"/>
+      Configure...
+    </a>
+  </p>
+
+  <p>
+    <a href="#" id="stats_link">
+      <img src="/images/stats-256.png" class="icon"/>
+      Statistics
+    </a>
+  </p>
+
+</body>
+</html>

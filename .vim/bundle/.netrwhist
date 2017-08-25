@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/etc/mopidy'
+let g:netrw_dirhist_2='/home/ottersome/.ssh'
+let g:netrw_dirhist_3='/etc/netctl/examples'
+let g:netrw_dirhist_4='/home/ottersome/.config/i3status'
+let g:netrw_dirhist_5='/srv/http/rikuras/public_html/rikuras/clone/oauth2-server-php'

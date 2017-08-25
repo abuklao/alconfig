@@ -1,0 +1,53 @@
+<svg id="hola_vpn_dark_Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102 28">
+  <style>
+    .hola_vpn_dark_0{fill:#fff}.hola_vpn_dark_1{fill:url(#hola_vpn_dark_Body_2_)}.hola_vpn_dark_2,.hola_vpn_dark_3{opacity:.1;fill:#fdd910;enable-background:new}.hola_vpn_dark_3{opacity:.4;fill:#a10200}.hola_vpn_dark_4{opacity:.5}.hola_vpn_dark_5{opacity:.8;fill:#d42400;enable-background:new}.hola_vpn_dark_6{opacity:.3}.hola_vpn_dark_7,.hola_vpn_dark_8{fill:#fd3b00}.hola_vpn_dark_8,.hola_vpn_dark_9{opacity:.5}.hola_vpn_dark_9{fill:#a10200}.hola_vpn_dark_10{fill:url(#hola_vpn_dark_SVGID_1_)}.hola_vpn_dark_10,.hola_vpn_dark_11,.hola_vpn_dark_12{opacity:.45;enable-background:new}.hola_vpn_dark_11{fill:url(#hola_vpn_dark_SVGID_2_)}.hola_vpn_dark_12{fill:url(#hola_vpn_dark_SVGID_3_)}.hola_vpn_dark_13{fill:#4d4d4d}
+  </style>
+  <ellipse cx="6.5" cy="16.5" rx="1.4" ry="2"/>
+  <ellipse cx="13.7" cy="16.5" rx="1.4" ry="2"/>
+  <path class="hola_vpn_dark_0" d="M16.8 18.6c0 3.7-3 6.7-6.8 6.7-3.7 0-6.7-3-6.8-6.7H2.1c0-3.1 16.4-3.1 16.4 0h-1.7z"/>
+  <radialGradient id="hola_vpn_dark_Body_2_" cx="19.992" cy="8.836" r="21.233" gradientTransform="matrix(.9975 0 0 -1 -8.135 29.918)" gradientUnits="userSpaceOnUse">
+    <stop offset=".05" stop-color="#efac00"/>
+    <stop offset=".174" stop-color="#eb9100"/>
+    <stop offset=".4" stop-color="#e15600"/>
+    <stop offset=".63" stop-color="#c82400"/>
+    <stop offset=".716" stop-color="#b91200"/>
+    <stop offset=".813" stop-color="#ae0500"/>
+    <stop offset=".9" stop-color="#a00"/>
+  </radialGradient>
+  <path id="hola_vpn_dark_Body_1_" class="hola_vpn_dark_1" d="M20.2 17.9c.1-2-.6-5.3-1.1-7s.6-3.7.6-3.7-.5 0-1.8 1.2c-1.3 1.1-1.3 2.7-1.3 2.7-1.5-3.6-4.7-5.9-5.8-7.5C9.5 2 10.3 0 10.3 0 8 1 6.8 3.5 6.4 6.5s-2.2 4.1-2.2 4.1C3.9 7.8.7 7.1.7 7.1c.7.2 1.8 3.5.6 5.8-.8 1.6-1.3 3.3-1.3 5C0 23.5 3.5 28 10.1 28c6 0 10.1-4.5 10.1-10.1z"/>
+  <g id="hola_vpn_dark_Shades_1_">
+    <path id="hola_vpn_dark_RH_large_shade_1_" class="hola_vpn_dark_2" d="M19 10.9c-.5-1.7.6-3.7.6-3.7s-.5 0-1.8 1.2c-1.3 1.1-1.3 2.7-1.3 2.7-1.5-3.6-4.7-5.9-5.8-7.5-.9-1.1-.7-2.7-.4-3.6-.6 1.1-1.9 3.1 2.3 7.8 5.2 5.1 7 8.6 6 13.6-.6 3-2.3 4.1-4.7 5.9h-.1c3.9-1.5 6.3-5.1 6.3-9.4.2-2-.5-5.3-1.1-7z"/>
+    <path id="hola_vpn_dark_LH_large_shade_1_" class="hola_vpn_dark_3" d="M0 17.9c0 2.5.7 4.8 2 6.5-1-2.3-1.9-6.1-.5-8.8 2.5-5 6.4-5.1 6.3-9.1C7.7 2.6 10.1.2 10.3 0 8 1 6.8 3.5 6.4 6.5s-2.2 4.1-2.2 4.1C3.9 7.8.7 7.1.7 7.1c.7.2 1.8 3.5.6 5.8-.8 1.6-1.3 3.3-1.3 5z"/>
+    <path class="hola_vpn_dark_4 st5" d="M2.3 12.4c.8-2.5-.8-5.1-1.6-5.3.7.3 1.8 3.5.6 5.8-.8 1.6-1.3 3.3-1.3 5 0 2.4.6 4.5 1.9 6.3-3.3-6.9-.3-9.3.4-11.8z"/>
+    <path class="hola_vpn_dark_6 st7" d="M19 10.9c-.5-1.7.6-3.7.6-3.7-1.1 1.6-1.6 2.8-.6 7.1 1.8 6.3-.5 11-5.6 13.2 4.1-1.3 6.7-5.1 6.7-9.6.2-2-.5-5.3-1.1-7z"/>
+    <path id="hola_vpn_dark_LH_ear_1_" class="hola_vpn_dark_8" d="M.7 7.1c2.4.8 2.8 3.2 2.9 3.8.2 0 .6-.3.6-.3C3.9 7.8.7 7.1.7 7.1z"/>
+    <path id="hola_vpn_dark_RH_ear_1_" class="hola_vpn_dark_9" d="M16.8 11.7c.3-.1-.1-2.6 2.8-4.5 0 0-.5 0-1.8 1.2-1.3 1.1-1.3 2.7-1.3 2.7s.3.5.3.6z"/>
+  </g>
+  <g id="hola_vpn_dark_Smile_1_">
+    <linearGradient id="hola_vpn_dark_SVGID_1_" gradientUnits="userSpaceOnUse" x1="10" y1="3.7" x2="10" y2="11.6" gradientTransform="matrix(1 0 0 -1 0 30)">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#ff9600"/>
+    </linearGradient>
+    <path class="hola_vpn_dark_10" d="M10.1 26.3c-2.1 0-4-.8-5.5-2.3s-2.3-3.4-2.3-5.4v-.2h1.4v.2c0 3.4 2.9 6.3 6.3 6.3s6.3-2.9 6.3-6.3v-.2h1.4v.2c0 2-.8 4-2.3 5.4-1.3 1.5-3.3 2.3-5.3 2.3z"/>
+    <path id="hola_vpn_dark_Mouth_2_" d="M16.6 18.6c0 3.4-2.9 6.5-6.5 6.5S3.6 22 3.6 18.6h-1c0 4.1 3.4 7.6 7.5 7.6 4.2 0 7.5-3.4 7.5-7.6h-1z"/>
+    <g id="hola_vpn_dark_Eyes_1_">
+      <g id="hola_vpn_dark_Glow_4_">
+        <linearGradient id="hola_vpn_dark_SVGID_2_" gradientUnits="userSpaceOnUse" x1="-1585.678" y1="942.88" x2="-1585.678" y2="947.191" gradientTransform="matrix(-1 0 0 1 -1579.178 -928.5)">
+          <stop offset="0" stop-color="#fff"/>
+          <stop offset="1" stop-color="#ff9600"/>
+        </linearGradient>
+        <ellipse class="hola_vpn_dark_11" cx="6.5" cy="16.5" rx="1.6" ry="2.2"/>
+        <linearGradient id="hola_vpn_dark_SVGID_3_" gradientUnits="userSpaceOnUse" x1="-1592.878" y1="942.88" x2="-1592.878" y2="947.191" gradientTransform="matrix(-1 0 0 1 -1579.178 -928.5)">
+          <stop offset="0" stop-color="#fff"/>
+          <stop offset="1" stop-color="#ff9600"/>
+        </linearGradient>
+        <ellipse class="hola_vpn_dark_12" cx="13.7" cy="16.5" rx="1.6" ry="2.2"/>
+      </g>
+      <g id="hola_vpn_dark_Eyes_2_">
+        <ellipse cx="13.7" cy="16.5" rx="1.4" ry="2"/>
+        <ellipse cx="6.5" cy="16.5" rx="1.4" ry="2"/>
+      </g>
+    </g>
+  </g>
+  <path class="hola_vpn_dark_13" d="M63.5 17.4c.1-.6.3-5.3.6-7 0-.8.5-1.6 1.3-2 .7-.3 1.6-.2 2.2.4.3.3.4.8.4 1.2.1.5 0 1.1-.1 1.6-.2 1.2-1.2 5.7-1.6 6.8-.1.5-.4.9-.7 1.2-.4.3-.9.4-1.3.1-.6-.3-.8-.9-.8-1.6-.1-.1-.1-.4 0-.7zm-1.2 5.8c-.1-.8.2-1.7 1-2.1.9-.5 2-.3 2.6.5.6.7.6 1.7.1 2.4-.3.4-.7.6-1.2.7-.2.1-.5.1-.7.1-1-.1-1.7-.7-1.8-1.6zm-10.2 0c-.7-.6-1.1-1.5-1.1-2.5 0-.9.4-1.8 1.2-2.3.8-.7 1.7-.7 2.8-.7s1.5 0 2.5-.1l.8-.1v-.1c0-.2 0-.4-.1-.6-.1-.5-1-1.1-2.1-1-.5.1-.9.3-1.3.6-1.9 1-2.5-1-1.9-1.8s1.5-1.2 2.5-1.2c1-.1 2.1 0 3 .3.9.2 1.8.7 2.4 1.4.6.8.6 1.9.6 2.9-.1 1.1-.5 2.2-.6 3.3-.1.5-.1 1.1-.1 1.6.1.5 0 1-.2 1.4-.5.6-1.4.8-2 .3l-.3-.3c-.2-.3-.4-.7-.6-1-1 .5-2.1.7-3.2.7-.9.1-1.7-.3-2.3-.8zm2-2.4c0 .6.4 1.1 1 1.1.7.1 1.4 0 1.9-.5.4-.5.7-1.1.8-1.7-.8.1-2.1.1-2.4.1-.3.2-1.2.3-1.3 1zM46.2 13c-.1-.5-.1-1-.1-1.6 0-.8.6-1.5 1.4-1.6.8 0 1.5.5 1.7 1.3.1.4.1 1 .1 1.6 0 0 .8 9.4.8 9.8.1.9-.5 1.8-1.4 2-1.4.1-1.7-1-1.8-1.7l-.7-9.8zm-1.1 6.8c-.3 1.7-1 3.2-2.6 4s-3.5.8-5.1-.1c-.8-.4-1.5-1.1-1.9-1.8-.5-.9-.8-1.9-.6-2.9 0-1.7.8-3.4 2.2-4.4s3.5-1 5.1-.5c.9.3 1.6.9 2.1 1.6.6.8.9 1.8.9 2.8-.1.6-.2 1.5-.1 1.3zm-3.1-.5c.1-.8 0-1.6-.3-2.3-.5-.7-1.4-1-2.2-.7-.8.4-1.4 1.1-1.5 2-.3.9-.1 1.9.3 2.8.7.8 1.9 1 2.7.3h.1c.6-.7.9-1.5 1-2.4-.1.1-.1.2-.1.3zm-10-5c.7.6 1.1 1.5 1.2 2.4.2 1.1.5 4.6.6 5.1s0 1-.2 1.5c-.4.7-1.3 1-2 .7-.9-.4-1-1.6-1-2.3-.1-1.2-.2-2.3-.3-3.4-.1-.9-.3-2.1-1.4-2-.8.1-1.4.6-1.7 1.3-.1.5-.1 1-.1 1.4.1.6.3 2.7.3 3.2.1.4.1.8.1 1.2-.1.8-.8 1.4-1.6 1.4-.4 0-.8-.1-1-.4-.3-.4-.5-.8-.6-1.2-.2-1.1-.9-9.2-1.1-10.3-.1-.5-.1-1.1.1-1.6.2-.3.4-.6.8-.8s.8-.2 1.2-.1c.4.2.8.5.9 1 .2 1.1.4 2.3.5 3.4.2-.2.4-.5.7-.7 1.4-.8 3.4-.9 4.6.2zm48.3-1.8c0 .1 0 .2-.1.3l-3.8 11.4c-.1.3-.5.4-1 .4h-1c-.5 0-.9-.1-1-.4l-3.8-11.4c0-.1-.1-.2-.1-.3 0-.2.3-.4 1.1-.4h.6c.4-.1.9.1 1 .5l2.4 7.7.2.7h.2l.2-.7 2.5-7.7c.2-.4.6-.6 1-.5h.5c.8 0 1.1.2 1.1.4zm10 3.5c0 3.4-3.1 3.9-4 3.9h-1.9V24c0 .4-.3.6-1.1.6h-.6c-.7 0-1.1-.2-1.1-.6V12.9c-.1-.3.2-.6.5-.7H86c1.7 0 4.3.4 4.3 3.8zm-5.9-1.5v3.1H86c.8.1 1.4-.5 1.5-1.3V16c.1-.8-.5-1.5-1.2-1.6H86l-1.6.1zm17.6-1.8V24c0 .4-.3.6-1.1.6h-.6c-.4.1-.9-.1-1.2-.5l-4.7-7.3V24c0 .4-.3.6-1.1.6h-.5c-.7 0-1.1-.2-1.1-.6V12.7c0-.4.3-.6 1.1-.6h.8c.4-.1.9.1 1.2.5L99 19l.5.7v-7.1c0-.4.3-.6 1.1-.6h.5c.6.1.9.3.9.7z"/>
+</svg>
