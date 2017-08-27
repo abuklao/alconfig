@@ -37,7 +37,7 @@ URxvt.keysym.Shift-Control-C: perl:clipboard:copy
 URxvt.keysym.Shift-Control-V: perl:clipboard:paste
 
 URxvt.underlineURLs:true
-URxvt.font:xft:NotoMono-Regular:pixelsize=12
+URxvt.font:xft:NotoMono-Regular:pixelsize=14
 URxvt.transparent:false
 URxvt.shading:30
 URxvt.geometry:85x22
@@ -46,43 +46,48 @@ URxvt.geometry:85x22
 URxvt*urgentOnBell: true
 URxvt*visualBell:   false
 
-	!colorscheme
+!colorscheme
 
-URxvt.background: #282f39
-URxvt.foreground: #FFFFFF
-
-
-!! black dark/light
-*color0: #073642
-*color8: #002b36
-
-!! red dark/light
-*color1: #dc322f
-*color9: #cb4b16
-
-!! green dark/light
-*color2: #859900
-*color10: #586e75
-
-!! yellow dark/light
-*color3: #b58900
-*color11: #657b83
-
-!! blue dark/light
-*color4: #268bd2
-*color12: #839496
-
-!! magenta dark/light
-*color5: #d33682
-*color13: #6c71c4
-
-!! cyan dark/light
-*color6: #2aa198
-*color14: #93a1a1
-
-!! white dark/light
-*color7: #eee8d5
-*color15: #fdf6e3
+*.foreground:  #ecf0c1
+*.background:  #0a1e24
+*.cursorColor: #708284
+!
+! Black
+*.color0:      #6e5346
+*.color8:      #684c31
+!
+! Red
+*.color1:      #e35b00
+*.color9:      #ff8a3a
+!
+! Green
+*.color2:      #5cab96
+*.color10:     #aecab8
+!
+! Yellow
+*.color3:      #e3cd7b
+*.color11:     #ffc878
+!
+! Blue
+*.color4:      #0f548b
+*.color12:     #67a0ce
+!
+! Magenta
+*.color5:      #e35b00
+*.color13:     #ff8a3a
+!
+! Cyan
+*.color6:      #06afc7
+*.color14:     #83a7b4
+!
+! White
+*.color7:      #f0f1ce
+*.color15:     #fefff1
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:
 
 ! Rofi
 rofi.color-enabled: true
